@@ -2,7 +2,7 @@
 
 namespace app\core;
 
-use app\controllers\Controller;
+use app\core\Controller;
 
 /**
  * Class Application

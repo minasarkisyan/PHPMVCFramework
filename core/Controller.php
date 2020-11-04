@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\controllers;
+namespace app\core;
 
 
 use app\core\Application;

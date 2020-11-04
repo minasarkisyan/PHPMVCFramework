@@ -1,0 +1,15 @@
+{
+    "name": "postp/phpmvc-framework",
+    "authors": [
+        {
+            "name": "minas1986",
+            "email": "30533267+minas1986@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
